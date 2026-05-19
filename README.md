@@ -5,7 +5,7 @@
 | Name | Reg No | Course |
 | --- | --- | --- |
 | Uzma Haseeb | 253224 | MSc DataScience and BioAI|
-| [Member B Name] | [Reg No] | [Course] |
+| Anamika ponnu | [Reg No] | [Course] |
 | | |  |
 
 A Streamlit web app for sentiment analysis of Yelp reviews using TF-IDF features combined with handcrafted linguistic signals and four ML classifiers.
